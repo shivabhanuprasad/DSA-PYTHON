@@ -1,0 +1,1 @@
+I have started learning Data Structures and Algorithms from scratch using Python, which is a simple, readable, and efficient programming language. Python allows beginners to focus more on logic and problem-solving rather than complex syntax, making it ideal for understanding DSA concepts clearly.
